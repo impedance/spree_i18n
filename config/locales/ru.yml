@@ -375,6 +375,9 @@ ru:
   customer_details_updated: "The customer's details have been updated."
   customer_search: "Поиск клиента"
   cut: Cut
+  date:
+    formats:
+      default: "%d.%m.%Y"
   date_completed: Date Completed
   date_created: "Дата создания"
   date_range: "Период времени"
